@@ -1,0 +1,25 @@
+{
+    "menu": [{
+            "kategori": "pizza",
+            "nama": "Meat Lover",
+            "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg"
+        },
+  
+        {
+            "kategori": "minuman",
+            "nama": "Strawberry Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Chocolate Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "chocolate-milkshake.jpg"
+        }
+    ]
+}
